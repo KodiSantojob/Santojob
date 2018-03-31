@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>santojob</title>
+<title>[COLOR RED]santojob[COLOR RED]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>https://raw.githubusercontent.com/KodiSantojob/Santojob/master/test1.xml</link>
 <externallink></externallink>
 </item>
  
@@ -12,7 +12,7 @@
 <title>cocina 2</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>https://raw.githubusercontent.com/KodiSantojob/Santojob/master/cocina2.xml</link>
 <externallink></externallink>
 </item>
  
